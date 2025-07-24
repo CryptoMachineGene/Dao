@@ -7,6 +7,6 @@
 
 ## 🚀 Project Overview
 
-This project simulates the setup of a DAO designed to assing and let particpants porpose and vote on porposals after being vetted. 
+This project simulates the setup of a DAO designed to let particpants propose and vote on proposals after being vetted. This is a simple framework of DAO governance. 
 
 > ⚒️ Built as part of a hands-on blockchain developer mentorship.
